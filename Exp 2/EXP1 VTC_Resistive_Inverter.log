@@ -1,0 +1,29 @@
+LTspice 24.0.12 for Windows
+Circuit: * E:\DVD Pratical\GITHUB FILE EXP2\EXP1 VTC_Resistive_Inverter.asc
+Start Time: Mon Jan 20 21:23:10 2025
+solver = Normal
+Maximum thread count: 12
+
+
+
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1": Width narrower than recommended for a level 1 MOSFET.
+.step r=10000
+
+
+
+.step r=50000
+tnom = 27
+temp = 27
+method = modified trap
+.step r=100000
+
+
+Measurement: vth
+  step	v(input)-v(output)=0
+     1	0.9
+     2	0.486518
+     3	0.36
+
+Total elapsed time: 0.210 seconds.
+
