@@ -1,0 +1,19 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Admin\Desktop\NAND GATE\CMOS_NAND_GATE_Without_Measure.asc
+Start Time: Tue Feb 11 14:17:51 2025
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.149 seconds.
+
