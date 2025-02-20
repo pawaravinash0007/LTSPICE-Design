@@ -1,0 +1,44 @@
+Circuit: * C:\Users\student\Downloads\xnorgate\CMOS_XNOR_GATE_a=0_b=0-1.asc
+
+WARNING: Less than two connections to node A.  This node is used by V§A.
+WARNING: Less than two connections to node ABAR.  This node is used by V§ABAR.
+Instance "m8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m8": Width narrower than recommended for a level 1 MOSFET.
+Instance "m7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m7": Width narrower than recommended for a level 1 MOSFET.
+Instance "m6": Length shorter than recommended for a level 1 MOSFET.
+Instance "m6": Width narrower than recommended for a level 1 MOSFET.
+Instance "m5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m5": Width narrower than recommended for a level 1 MOSFET.
+Instance "m4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Width narrower than recommended for a level 1 MOSFET.
+Instance "m3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m3": Width narrower than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+tphl=1.08693e-009 FROM 4e-011 TO 1.12693e-009
+tplh=-1.08704e-009 FROM 1.14e-009 TO 5.2961e-011
+avg_delay: (tphl + tplh)/2=-5.42782e-014
+
+
+Date: Thu Feb 20 16:02:28 2025
+Total elapsed time: 0.040 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2091
+traniter = 2080
+tranpoints = 680
+accept = 641
+rejected = 39
+matrix size = 14
+fillins = 0
+solver = Normal
+Matrix Compiler1: 510 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
