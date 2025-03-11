@@ -1,0 +1,40 @@
+Circuit: * C:\Users\student\Downloads\static power calculation\nand gate propogation delay calculation with same pulse.asc
+
+WARNING: Less than two connections to node b.  This node is used by v§b.
+WARNING: Less than two connections to node d.  This node is used by v§d.
+WARNING: Less than two connections to node c.  This node is used by v§c.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1": Width narrower than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Width narrower than recommended for a level 1 MOSFET.
+Instance "m3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m3": Width narrower than recommended for a level 1 MOSFET.
+Instance "m4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Width narrower than recommended for a level 1 MOSFET.
+Instance "m5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m5": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+tphl=1.2599e-11 FROM 4e-11 TO 5.2599e-11
+tplh=1.13065e-12 FROM 1.14e-09 TO 1.14113e-09
+avg_delay: (tphl +tplh)/2=6.86484e-12
+
+
+Date: Tue Mar 11 11:33:50 2025
+Total elapsed time: 0.130 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3682
+traniter = 3676
+tranpoints = 1343
+accept = 1238
+rejected = 105
+matrix size = 14
+fillins = 0
+solver = Normal
+Avg thread counts: 1.7/3.0/3.2/1.7
+Matrix Compiler1: 420 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 856 bytes object code size  0.1/0.1/[0.1]
+
